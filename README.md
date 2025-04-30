@@ -2,6 +2,9 @@
 柯昱葶 國文115級 41120122L
 專題名字：試題分析計算機
 
+專題colab：
+https://colab.research.google.com/drive/1R8EN3uCTDVZQKRaDtkndYpqRN6KEoj_t?usp=sharing
+
 **第一次期末專題提案youtube連結：**
 **https://youtu.be/Cg3rWVV3wpc**
 
